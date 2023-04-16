@@ -13,7 +13,6 @@ public class Book {
     public String getBookName() {
         return bookName;
     }
-
     public Author getAuthor() {
         return authorName ;
     }
